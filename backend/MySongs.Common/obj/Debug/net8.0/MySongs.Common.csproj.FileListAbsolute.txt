@@ -1,0 +1,12 @@
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\bin\Debug\net8.0\MySongs.Common.deps.json
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\bin\Debug\net8.0\MySongs.Common.dll
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\bin\Debug\net8.0\MySongs.Common.pdb
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\MySongs.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\MySongs.Common.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\MySongs.Common.AssemblyInfo.cs
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\MySongs.Common.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\MySongs.Common.dll
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\refint\MySongs.Common.dll
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\MySongs.Common.pdb
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\ref\MySongs.Common.dll
+C:\Users\user1\Downloads\MySongs-updated\MySongs-master\MySongs.Common\obj\Debug\net8.0\MySongs.Common.sourcelink.json

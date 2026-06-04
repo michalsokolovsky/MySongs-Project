@@ -1,0 +1,884 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\bfsi5vso..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\services\\recommendationengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\services\\recommendationengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\services\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\services\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\entities\\listeninghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\entities\\listeninghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\entities\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\entities\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\entities\\songtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\entities\\songtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\entities\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\entities\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\interfaces\\irecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\interfaces\\irecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\interfaces\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\interfaces\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\syzqmj5j..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\controllers\\listeninghistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\controllers\\listeninghistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\fsnhirrc..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\mt0lg5yt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E35D5A-05C5-4731-820D-E8AC8B5902AF}|MySongs.Common\\MySongs.Common.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.common\\dtos\\listeninghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E35D5A-05C5-4731-820D-E8AC8B5902AF}|MySongs.Common\\MySongs.Common.csproj|solutionrelative:mysongs.common\\dtos\\listeninghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E35D5A-05C5-4731-820D-E8AC8B5902AF}|MySongs.Common\\MySongs.Common.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.common\\mysongs.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87E35D5A-05C5-4731-820D-E8AC8B5902AF}|MySongs.Common\\MySongs.Common.csproj|solutionrelative:mysongs.common\\mysongs.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC9A67-38F4-4668-9A19-7313B023AEF6}|MySongs.Api\\MySongs.Api.csproj|solutionrelative:mysongs.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\services\\songtagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\services\\songtagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\services\\listeninghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\services\\listeninghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\services\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\services\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\interfaces\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\interfaces\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\interfaces\\isongtagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\interfaces\\isongtagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\interfaces\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\interfaces\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\interfaces\\ilisteninghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\interfaces\\ilisteninghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.services\\interfaces\\iaianalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59700CF-C257-4EE4-BCD6-BA0F5DE16A8B}|MySongs.Services\\MySongs.Services.csproj|solutionrelative:mysongs.services\\interfaces\\iaianalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\interfaces\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\interfaces\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\interfaces\\isongtagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\interfaces\\isongtagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\interfaces\\ilisteninghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\interfaces\\ilisteninghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\repositories\\songtagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\repositories\\songtagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\repositories\\listeninghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\repositories\\listeninghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.repository\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F449EA-8A68-420C-8875-A3006456ED68}|MySongs.Repository\\MySongs.Repository.csproj|solutionrelative:mysongs.repository\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E35D5A-05C5-4731-820D-E8AC8B5902AF}|MySongs.Common\\MySongs.Common.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.common\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E35D5A-05C5-4731-820D-E8AC8B5902AF}|MySongs.Common\\MySongs.Common.csproj|solutionrelative:mysongs.common\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E35D5A-05C5-4731-820D-E8AC8B5902AF}|MySongs.Common\\MySongs.Common.csproj|c:\\users\\user1\\downloads\\mysongs-updated\\mysongs-master\\mysongs.common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E35D5A-05C5-4731-820D-E8AC8B5902AF}|MySongs.Common\\MySongs.Common.csproj|solutionrelative:mysongs.common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\bfsi5vso..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\bfsi5vso..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Controllers\\SongsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "MySongs.Api\\Controllers\\SongsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAApwEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:53:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Program.cs",
+              "RelativeToolTip": "MySongs.Api\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAhwFMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:04:29.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\bfsi5vso..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\bfsi5vso..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-19T00:02:31.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecommendationEngineService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Services\\RecommendationEngineService.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Services\\RecommendationEngineService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Services\\RecommendationEngineService.cs",
+              "RelativeToolTip": "MySongs.Api\\Services\\RecommendationEngineService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwGcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:26:46.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MySongs.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MySongs.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T22:40:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MySongs.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:02:49.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "MySongs.Services\\Services\\RecommendationService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:11:55.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAIService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Services\\IAIService.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Services\\IAIService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Services\\IAIService.cs",
+              "RelativeToolTip": "MySongs.Api\\Services\\IAIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:47:15.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Services\\AIService.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Services\\AIService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Services\\AIService.cs",
+              "RelativeToolTip": "MySongs.Api\\Services\\AIService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:42:50.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MySongs.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\appsettings.json",
+              "RelativeToolTip": "MySongs.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T08:56:42.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListeningHistory.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\ListeningHistory.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Entities\\ListeningHistory.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\ListeningHistory.cs",
+              "RelativeToolTip": "MySongs.Repository\\Entities\\ListeningHistory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:20:42.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\Users.cs",
+              "RelativeToolTip": "MySongs.Repository\\Entities\\Users.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:40:14.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\Tag.cs",
+              "RelativeToolTip": "MySongs.Repository\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:40:24.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\Recommendation.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Entities\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\Recommendation.cs",
+              "RelativeToolTip": "MySongs.Repository\\Entities\\Recommendation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:40:39.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SongTag.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\SongTag.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Entities\\SongTag.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\SongTag.cs",
+              "RelativeToolTip": "MySongs.Repository\\Entities\\SongTag.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:40:31.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Songs.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\Songs.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Entities\\Songs.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Entities\\Songs.cs",
+              "RelativeToolTip": "MySongs.Repository\\Entities\\Songs.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T21:43:24.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\IRecommendationService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Interfaces\\IRecommendationService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\IRecommendationService.cs",
+              "RelativeToolTip": "MySongs.Services\\Interfaces\\IRecommendationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:44:50.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\RecommendationRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Repositories\\RecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\RecommendationRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Repositories\\RecommendationRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:38:32.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\IRecommendationRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Interfaces\\IRecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\IRecommendationRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Interfaces\\IRecommendationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:41:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "syzqmj5j..sql",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\syzqmj5j..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\syzqmj5j..sql",
+              "ToolTip": "C:\\Users\\user1\\AppData\\Local\\Temp\\syzqmj5j..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\syzqmj5j..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-18T01:22:57.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListeningHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\ListeningHistoryController.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Controllers\\ListeningHistoryController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\ListeningHistoryController.cs",
+              "RelativeToolTip": "MySongs.Api\\Controllers\\ListeningHistoryController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:51:13.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fsnhirrc..sql",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\fsnhirrc..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\fsnhirrc..sql",
+              "ToolTip": "C:\\Users\\user1\\AppData\\Local\\Temp\\fsnhirrc..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\fsnhirrc..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-18T01:17:41.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "mt0lg5yt..sql",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\mt0lg5yt..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\mt0lg5yt..sql",
+              "ToolTip": "C:\\Users\\user1\\AppData\\Local\\Temp\\mt0lg5yt..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\mt0lg5yt..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-18T01:04:19.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ListeningHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Common\\DTOs\\ListeningHistoryDto.cs",
+              "RelativeDocumentMoniker": "MySongs.Common\\DTOs\\ListeningHistoryDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Common\\DTOs\\ListeningHistoryDto.cs",
+              "RelativeToolTip": "MySongs.Common\\DTOs\\ListeningHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:03:14.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MySongs.Common.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Common\\MySongs.Common.csproj",
+              "RelativeDocumentMoniker": "MySongs.Common\\MySongs.Common.csproj",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Common\\MySongs.Common.csproj",
+              "RelativeToolTip": "MySongs.Common\\MySongs.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T00:55:30.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "MySongs.Api\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:51:29.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MySongs.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:00:38.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RecommendationsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\RecommendationsController.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Controllers\\RecommendationsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\RecommendationsController.cs",
+              "RelativeToolTip": "MySongs.Api\\Controllers\\RecommendationsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:51:19.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MySongs.Api\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MySongs.Api\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:50:56.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "MySongs.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:29:59.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\TagService.cs",
+              "RelativeToolTip": "MySongs.Services\\Services\\TagService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:29:24.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SongTagService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\SongTagService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Services\\SongTagService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\SongTagService.cs",
+              "RelativeToolTip": "MySongs.Services\\Services\\SongTagService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:28:54.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SongService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\SongService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Services\\SongService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\SongService.cs",
+              "RelativeToolTip": "MySongs.Services\\Services\\SongService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T21:55:41.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ListeningHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\ListeningHistoryService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Services\\ListeningHistoryService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\ListeningHistoryService.cs",
+              "RelativeToolTip": "MySongs.Services\\Services\\ListeningHistoryService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:11:04.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Services\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Services\\MappingProfile.cs",
+              "RelativeToolTip": "MySongs.Services\\Services\\MappingProfile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:57:36.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "MySongs.Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:45:14.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\ITagService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Interfaces\\ITagService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\ITagService.cs",
+              "RelativeToolTip": "MySongs.Services\\Interfaces\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:45:09.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ISongTagService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\ISongTagService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Interfaces\\ISongTagService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\ISongTagService.cs",
+              "RelativeToolTip": "MySongs.Services\\Interfaces\\ISongTagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:45:04.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ISongService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\ISongService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Interfaces\\ISongService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\ISongService.cs",
+              "RelativeToolTip": "MySongs.Services\\Interfaces\\ISongService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:35:15.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IListeningHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\IListeningHistoryService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Interfaces\\IListeningHistoryService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\IListeningHistoryService.cs",
+              "RelativeToolTip": "MySongs.Services\\Interfaces\\IListeningHistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:44:46.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAIAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\IAIAnalysisService.cs",
+              "RelativeDocumentMoniker": "MySongs.Services\\Interfaces\\IAIAnalysisService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Services\\Interfaces\\IAIAnalysisService.cs",
+              "RelativeToolTip": "MySongs.Services\\Interfaces\\IAIAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:44:37.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:42:31.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ISongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\ISongRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Interfaces\\ISongRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\ISongRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Interfaces\\ISongRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:36:21.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Interfaces\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\ITagRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Interfaces\\ITagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:42:24.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ISongTagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\ISongTagRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Interfaces\\ISongTagRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\ISongTagRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Interfaces\\ISongTagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:42:12.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IListeningHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\IListeningHistoryRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Interfaces\\IListeningHistoryRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\IListeningHistoryRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Interfaces\\IListeningHistoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:39:46.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Interfaces\\IContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "MySongs.Repository\\Interfaces\\IContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:39:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Repositories\\TagRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:38:44.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SongTagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\SongTagRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Repositories\\SongTagRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\SongTagRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Repositories\\SongTagRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvycAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:38:38.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ListeningHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\ListeningHistoryRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Repositories\\ListeningHistoryRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\ListeningHistoryRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Repositories\\ListeningHistoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:38:25.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvywAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:37:25.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\SongRepository.cs",
+              "RelativeDocumentMoniker": "MySongs.Repository\\Repositories\\SongRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Repository\\Repositories\\SongRepository.cs",
+              "RelativeToolTip": "MySongs.Repository\\Repositories\\SongRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvy8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T21:55:04.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Common\\DTOs\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "MySongs.Common\\DTOs\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Common\\DTOs\\UserResponseDto.cs",
+              "RelativeToolTip": "MySongs.Common\\DTOs\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:05:00.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Common\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "MySongs.Common\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\MySongs-updated\\MySongs-master\\MySongs.Common\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "MySongs.Common\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:50:28.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
