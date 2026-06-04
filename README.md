@@ -1,3 +1,4 @@
+<div dir="rtl">
 
 # 🎵 MySongs
 
@@ -132,3 +133,5 @@ MySongs-Project/
 
 ⭐ אם הפרויקט עזר לך, שקול לתת לו כוכב!
 >>>>>>> e33bdcb304dcced99d7c9469166de8b3bf378001
+</div>
+
