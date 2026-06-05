@@ -1,11 +1,5 @@
 <div dir="rtl">
 
-<<<<<<< HEAD
-<<<<<<< HEAD
- 
-=======
-=======
->>>>>>> 774ddbe64bd596d1c2cf368b92fce124e1e6757a
 # 🎵 MySongs
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -138,9 +132,5 @@ MySongs-Project/
 פרויקט זה פותח מתוך אהבה למוזיקה ולקוד — כי כל שיר טוב מגיע עם חוויה טובה. 🎵
 
 ⭐ אם הפרויקט עזר לך, שקול לתת לו כוכב!
->>>>>>> e33bdcb304dcced99d7c9469166de8b3bf378001
-</div>
-<<<<<<< HEAD
-=======
 
->>>>>>> 774ddbe64bd596d1c2cf368b92fce124e1e6757a
+</div>
